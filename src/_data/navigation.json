@@ -8,12 +8,12 @@
     {
       "text": "Breed Info",
       "url": "/breedinfo",
-      "external": true
+      "external": false
     },
     {
       "text": "Events",
       "url": "/events",
-      "external": true
+      "external": false
     },
     {
       "text": "Example Contact Page",
