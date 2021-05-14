@@ -1,5 +1,7 @@
+---
 title: 'Events'
 permalink: '/events/index.html'
+---
 
 
 ## The Gathering, CD's at 4Paws
