@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Carolina-Dogs 
+title: Carolina Dogs 
 postsHeading: Latest posts
 archiveButtonText: See all posts
 metaDesc: 'We will try to provide you with the information on our breeders, events, and happenings in the Carolina Dog world.'
