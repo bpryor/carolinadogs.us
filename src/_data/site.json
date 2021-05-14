@@ -1,10 +1,10 @@
 {
   "showThemeCredit": true,
   "name": "carolinadogs.us",
-  "shortDesc": "We will try to provide you with the information on our breeders, events, and happenings in the Carolina Dog world.",
+  "shortDesc": "Information on our breeders, events, and happenings in the Carolina Dog world.",
   "url": "https://carolinadogs.us",
   "authorEmail": "me@andy-bell.design",
-  "authorHandle": "@hankchizljaw",
+  "authorHandle": "",
   "authorName": "Andy Bell",
   "enableThirdPartyComments": false,
   "maxPostsPerPage": 5,
