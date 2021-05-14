@@ -10,11 +10,13 @@
       "url": "/breed-info",
       "external": false
     },
+    
     {
       "text": "Events",
       "url": "/events",
       "external": false
     },
+    
     {
       "text": "Contact Us",
       "url": "/contact",
