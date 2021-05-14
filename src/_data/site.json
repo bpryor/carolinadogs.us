@@ -1,9 +1,9 @@
 {
   "showThemeCredit": true,
-  "name": "Hylia Starter Kit",
-  "shortDesc": "Hylia is a lightweight Eleventy starter kit to help you to create your own blog or personal website.",
-  "url": "https://hylia.website",
-  "authorEmail": "me@andy-bell.design",
+  "name": "Carolina Dogs",
+  "shortDesc": "Information on our breeders, events, and happenings in the Carolina Dog world.",
+  "url": "https://carolina-dogs.netlify.app/",
+  "authorEmail": "rdpryor@gmail.com",
   "authorHandle": "@hankchizljaw",
   "authorName": "Andy Bell",
   "enableThirdPartyComments": false,
