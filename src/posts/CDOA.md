@@ -83,3 +83,5 @@ We're about to begin the donation phase of opening Carolina Ascension Sanctuary;
 
 ### FOR MORE INFORMATION:
 [Email Us}(mailto:CDORIGINASSOCIATION@GMAIL.COM)
+
+<a href="mailto:CDORIGINASSOCIATION@GMAIL.COM">Email us at CDORIGINASSOCIATION@GMAIL.COM</a>
