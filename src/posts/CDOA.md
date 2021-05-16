@@ -82,4 +82,4 @@ Thanks to one of our incredible board members, we're working tirelessly to pull 
 We're about to begin the donation phase of opening Carolina Ascension Sanctuary; a long time vision where CDs will have the freedom they crave in a secure area.
 
 ### FOR MORE INFORMATION:
-CDORIGINASSOCIATION@GMAIL.COM
+[CDORIGINASSOCIATION@GMAIL.COM}(CDORIGINASSOCIATION@GMAIL.COM)
