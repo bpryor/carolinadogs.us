@@ -2,7 +2,6 @@
 title: CDOA
 date: '2021-05-16'
 tags:
-  - demo-content
   - simple-post
   - blog
 ---
